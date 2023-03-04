@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/warkop-sobat-website/static/css/main.6d72e390.css",
+    "main.js": "/warkop-sobat-website/static/js/main.473431d7.js",
+    "static/media/kopi-sobat.jpg": "/warkop-sobat-website/static/media/kopi-sobat.cff93cfc12f5f0451e36.jpg",
+    "static/media/indomie-goreng.jpg": "/warkop-sobat-website/static/media/indomie-goreng.200b7f038842a331098c.jpg",
+    "static/media/kopi-tubruk.jpg": "/warkop-sobat-website/static/media/kopi-tubruk.c4ed2a4b38090dbfa57e.jpg",
+    "static/media/roti-bakar.jpg": "/warkop-sobat-website/static/media/roti-bakar.441b84b32a3179654bb5.jpg",
+    "static/media/indomie-kuah.jpg": "/warkop-sobat-website/static/media/indomie-kuah.02ce2fabcd230ccd2842.jpg",
+    "static/media/about-img.jpg": "/warkop-sobat-website/static/media/about-img.d1f5ca807159074ce9f2.jpg",
+    "static/media/hero-bg.jpg": "/warkop-sobat-website/static/media/hero-bg.e6e63e78861a60e8b58b.jpg",
+    "static/media/kopi-gebet.jpg": "/warkop-sobat-website/static/media/kopi-gebet.318e1ca890f17c99835b.jpg",
+    "static/media/nutrisari.jpg": "/warkop-sobat-website/static/media/nutrisari.e62384d93a81464664ff.jpg",
+    "index.html": "/warkop-sobat-website/index.html",
+    "main.6d72e390.css.map": "/warkop-sobat-website/static/css/main.6d72e390.css.map",
+    "main.473431d7.js.map": "/warkop-sobat-website/static/js/main.473431d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d72e390.css",
+    "static/js/main.473431d7.js"
+  ]
+}
