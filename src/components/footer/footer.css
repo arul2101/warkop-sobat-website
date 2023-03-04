@@ -1,0 +1,36 @@
+footer{
+    background-color: rgb(243, 202, 126);
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 3rem;
+}
+
+footer .socials{
+    padding: 1rem 0;
+}
+
+footer .socials a{
+    color: white;
+    margin: 1rem;
+}
+
+footer .links a{
+    padding: 0 1rem;
+    color: white;
+}
+
+footer .credit p{
+    padding: 2rem;
+}
+
+footer .credit p a{
+    color: white;
+}
+
+footer .links a:hover, footer .socials a:hover{
+    color: black;
+}
+
+footer .credit a:hover{
+    color: #ba7e04;
+}

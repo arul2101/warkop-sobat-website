@@ -1,0 +1,93 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.3rem 8%;
+    background-color: rgba(243, 202, 126, .95);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 999;
+}
+
+nav .navbar-title a{
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+nav .navbar-title a:hover{
+    color: #211806;
+}
+
+nav .navbar-title a span{
+    color: #ba7e04;
+}
+
+nav .navbar-menu a{
+    color: white;
+    padding: 0 .8rem;
+    font-size: 1.2rem;
+}
+
+nav .navbar-menu a:hover{
+    color: #211806;
+}
+
+nav .toggle{
+    cursor: pointer;
+    color: white;
+}
+nav .toggle .icon:hover{
+    color: #211806;
+}
+
+nav .toggle .icon{
+    font-size: 1.5rem;
+}
+
+nav .toggle .menu{
+    display: none;
+}
+
+/* RESPONSIVE */
+/* laptop */
+@media only screen and (max-width: 1388px) {
+    
+}
+
+/* Tablet */
+@media only screen and (max-width: 768px) {
+    nav .navbar-menu{
+        position: absolute;
+        top: 100%;
+        right: -100%;
+        background-color: white;
+        height: 100vh;
+        transition: .3s linear;
+    }
+
+    #active{
+        right: 0;
+    }
+
+    nav .navbar-menu a{
+        color: #211806;
+        display: block;
+        padding: 0.5rem 1.5rem;
+    }
+
+    nav .navbar-menu a:hover{
+        color: #706142;
+    }
+
+    nav .toggle .menu{
+        display: inline-block;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    
+}
